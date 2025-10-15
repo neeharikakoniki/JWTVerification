@@ -72,5 +72,6 @@ export default function App() {
       </ScrollView>
     </SafeAreaView>
     </SafeAreaProvider>
+    
   );
 }
